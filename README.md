@@ -2,33 +2,45 @@
 
 En interaktiv **Single Page Application (SPA)** byggd med  **React** , som fungerar som en personlig hemsida. Webbappen presenterar information om mig själv, mina färdigheter, erfarenheter, projekt och kontaktinformation.
 
-## **Live Demo**
 
-🚀 **[Se den live på Netlify](#)** (Lägg in din Netlify-länk här)
-
-## **Installation**
+## Installation
 
 Följ dessa steg för att köra projektet lokalt:
 
-Klona repositoriet Klona projektet:
+### 1. Klona repositoriet
+Klona projektet till din lokala maskin:
 
-`git clone https://github.com/JuliaRymem/myResume`
+```bash
+git clone https://github.com/JuliaRymem/SchoolProject/tree/main/JavaScript/myResume
+```
 
-Navigera till projektmappen Gå in i den klonade projektmappen:
+### 2. Navigera till projektmappen
+Gå in i den klonade projektmappen:
 
-`cd myResume`
+```bash
+cd myResume
+```
 
-Installera nödvändiga beroenden Installera de nödvändiga paketen med:
+### 3. Installera nödvändiga beroenden
+Installera de nödvändiga paketen med följande kommando:
 
-`npm install`
+```bash
+npm install
+```
 
-Starta utvecklingsservern Kör utvecklingsservern för att starta projektet:
+### 4. Starta utvecklingsservern
+Kör utvecklingsservern för att starta projektet:
 
+```bash
 npm run dev
+```
 
-Öppna applikationen i webbläsaren Öppna din webbläsare och gå till
+### 5. Öppna applikationen i webbläsaren
+Öppna din webbläsare och gå till:
 
-http://localhost:5173/ (eller den port som Vite specificerar) för att se projektet i drift.
+[http://localhost:5173/](http://localhost:5173/)  
+(eller den port som Vite specificerar) för att se projektet i drift.
+
 
 ## **Teknologier**
 
