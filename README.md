@@ -64,7 +64,7 @@ När användaren besöker Kontakt-sidan, fokuserar applikationen automatiskt på
 ### Hur det fungerar:
 1. En ref skapas med `useRef(null)` och kopplas till inputfältet för namn (`<input>`).
 2. När komponenten renderas, används `useEffect` för att köra en funktion som sätter fokus på inputfältet med `nameInputRef.current.focus()`.
-3. Detta sker direkt efter att komponenten har monterats, vilket gör att användaren omedelbart kan börja skriva utan att behöva klicka på fältet.
+3. Detta sker direkt efter att komponenten har laddats, vilket gör att användaren kan börja skriva direkt utan att behöva klicka på fältet.
 --------------
 
 ## **Funktionalitet**
