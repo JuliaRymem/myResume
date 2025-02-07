@@ -11,7 +11,7 @@ Följ dessa steg för att köra projektet lokalt:
 Klona projektet till din lokala maskin:
 
 ```bash
-git clone https://github.com/JuliaRymem/SchoolProject/tree/main/JavaScript/myResume
+git clone https://github.com/JuliaRymem/myResume
 ```
 
 ### 2. Navigera till projektmappen
